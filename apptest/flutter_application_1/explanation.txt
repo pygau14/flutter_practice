@@ -1,0 +1,8 @@
+Navigation and routing
+
+-Navigating between two screens - Navigator
+
+
+- Routing : 
+
+- Home Screen , details Screen
